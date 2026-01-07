@@ -1,0 +1,5 @@
+pandas
+seaborn
+matplotlib
+numpy
+scipy==1.9.3
