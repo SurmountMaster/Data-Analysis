@@ -8,7 +8,7 @@ def to_percent(value):
 def calculate_demographic_data(print_data=True):
     # Read data from file
     df_source = pd.read_csv(
-        r"C:\Users\chido\Downloads\github\Excel\freecodecamp-data-analysis-with-python-main\freecodecamp-data-analysis-with-python-main\demographic-data-analyzer\adult.data.csv"
+        "adult.data.csv"
         )
 
     # How many of each race are represented in this dataset?
